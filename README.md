@@ -12,7 +12,6 @@ description: 2023.8.7 广东
 
 作者首先借助机器翻译工具，然后进行校对和修正，力求达到令作者满意的结果。
 
-作者不是英文翻译专业的从业者，如果您发现了什么纰漏，恳请至[仓库]([https://github.com/gzzyyxh/Computer-Architecture-A-Quantitative-Approach-CN-appendix-D-K)提issue
+作者不是英文翻译专业的从业者，如果您发现了什么纰漏，恳请您至[仓库](\[https:/github.com/gzzyyxh/Computer-Architecture-A-Quantitative-Approach-CN-appendix-D-K/)提issue
 
 ## 进度
-
