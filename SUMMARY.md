@@ -8,6 +8,6 @@
 * [附录H：适用于超长指令字(VLIW)和并行指令代码(EPIC)的硬件和软件](fu-luhshi-yong-yu-chao-chang-zhi-ling-zi-vliw-he-bing-hang-zhi-ling-dai-ma-epic-de-ying-jian-he-ruan.md)
 * [附录I：大规模多核处理器及其科学应用](fu-luida-gui-mo-duo-he-chu-li-qi-ji-qi-ke-xue-ying-yong.md)
 * [附录J：计算机算术](fu-lujji-suan-ji-suan-shu.md)
-* [附录K：关于指令集架构(ISA)的调查](fu-lukguan-yu-zhi-ling-ji-jia-gou-isa-de-tiao-cha.md)
+* [附录K：指令集体系结构综述](fu-lukguan-yu-zhi-ling-ji-jia-gou-isa-de-tiao-cha.md)
 * [附录L：地址转换的高级概念](fu-luldi-zhi-zhuan-huan-de-gao-ji-gai-nian.md)
 * [附录M：历史观点和参考](fu-lumli-shi-guan-dian-he-can-kao.md)
