@@ -17,3 +17,7 @@ description: 08/07/2023 广东 by gzzyyxh
 {% embed url="https://github.com/gzzyyxh/Computer-Architecture-A-Quantitative-Approach-CN-appendix-D-K/tree/main" %}
 
 ## 进度
+
+{% content-ref url="fu-ludcun-chu-xi-tong/" %}
+[fu-ludcun-chu-xi-tong](fu-ludcun-chu-xi-tong/)
+{% endcontent-ref %}
