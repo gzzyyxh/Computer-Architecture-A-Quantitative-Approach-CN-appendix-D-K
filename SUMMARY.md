@@ -4,6 +4,7 @@
 * [附录D：存储系统](fu-ludcun-chu-xi-tong/README.md)
   * [D.1 简介](fu-ludcun-chu-xi-tong/d.1-jian-jie.md)
   * [D.2 磁盘存储的高级主题](fu-ludcun-chu-xi-tong/d.2-ci-pan-cun-chu-de-gao-ji-zhu-ti.md)
+  * [D.3 真正的错误与失败的定义和例子](fu-ludcun-chu-xi-tong/d.3-zhen-zheng-de-cuo-wu-yu-shi-bai-de-ding-yi-he-li-zi.md)
 * [附录E：嵌入式系统](fu-lueqian-ru-shi-xi-tong.md)
 * [附录F：互联网络](fu-lufhu-lian-wang-luo.md)
 * [附录G：更深的向量处理器](fu-luggeng-shen-de-xiang-liang-chu-li-qi.md)
