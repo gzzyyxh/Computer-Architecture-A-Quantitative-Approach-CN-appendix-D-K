@@ -16,7 +16,7 @@ description: 08/07/2023 广东 by gzzyyxh
 
 ## 进度
 
-因为《计算机体系结构：量化研究方法》原版共有1527页，而其中附录D至附录K的内容就有超过700页，字数庞大，所以进度会比较慢。
+因为《计算机体系结构：量化研究方法》原版（第六版）共有1527页，而其中附录D至附录K的内容就有超过700页，字数庞大，所以进度会比较慢。
 
 {% content-ref url="fu-ludcun-chu-xi-tong/" %}
 [fu-ludcun-chu-xi-tong](fu-ludcun-chu-xi-tong/)
