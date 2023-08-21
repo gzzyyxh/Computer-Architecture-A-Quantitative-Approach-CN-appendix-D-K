@@ -56,7 +56,7 @@ Gray和Siewiorek根据原因将断层分为四类：
 
 任何此类统计数据的问题在于，这些数据只涉及报道的内容；例如，由于停电造成的环境故障没有报告给Tandem，因为它们被视为当地问题。操作失误的数据很难收集，因为操作员必须报告个人失误，这可能会影响管理者的意见，进而影响工作保障和加薪。Gray认为环境故障和操作人员故障都被低估了。他的研究得出结论，实现更高的可用性需要改进软件质量和软件容错能力，简化操作，以及对操作错误的容错能力。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>图D.7 1985 ~ 1989年Tandem故障。Gray[1990]根据客户的组件故障报告为容错串联计算机收集了这些数据。</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>图D.7 1985 ~ 1989年Tandem故障。Gray[1990]根据客户的组件故障报告为容错串联计算机收集了这些数据。</p></figcaption></figure>
 
 #### 操作员在可靠性中的作用的其他研究
 
