@@ -6,6 +6,7 @@
   * [D.2 磁盘存储的高级主题](fu-ludcun-chu-xi-tong/d.2-ci-pan-cun-chu-de-gao-ji-zhu-ti.md)
   * [D.3 真正的错误与失败的定义和例子](fu-ludcun-chu-xi-tong/d.3-zhen-zheng-de-cuo-wu-yu-shi-bai-de-ding-yi-he-li-zi.md)
   * [D.4 I/O性能，可靠性措施和基准](fu-ludcun-chu-xi-tong/d.4-io-xing-neng-ke-kao-xing-cuo-shi-he-ji-zhun.md)
+  * [D.5 排队理论简介](fu-ludcun-chu-xi-tong/d.5-pai-dui-li-lun-jian-jie.md)
 * [附录E：嵌入式系统](fu-lueqian-ru-shi-xi-tong.md)
 * [附录F：互联网络](fu-lufhu-lian-wang-luo.md)
 * [附录G：深入向量处理器](fu-luggeng-shen-de-xiang-liang-chu-li-qi.md)
